@@ -1,5 +1,10 @@
 # README
 
+## Related paper
+- Journal: Scientific Reports
+- DOI : 10.1038/s41598-024-85062-z
+- Title : Data-driven prediction of chemically relevant compositions in multi-component systems using tensor embeddings
+
 ## Overview
 In this repository, there are **two scripts** that work together to predict multi-component (e.g., pseudo-ternary) compositions:
 
